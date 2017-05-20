@@ -10,7 +10,7 @@ with open('HISTORY.rst') as history_file:
     history = history_file.read()
 
 requirements = [
-    # TODO: put package requirements here
+    'sourmash>=2.0.0a1',
 ]
 
 test_requirements = [
@@ -20,7 +20,7 @@ test_requirements = [
 setup(
     name='sourmash_utils',
     version='0.1.0',
-    description="Assorted sourmash scripts ",
+    description="Assorted sourmash scripts",
     long_description=readme + '\n\n' + history,
     author="C. Titus Brown",
     author_email='titus@idyll.org',
@@ -28,8 +28,9 @@ setup(
     packages=[
         'sourmash_utils',
     ],
-    package_dir={'sourmash_utils':
-                 'sourmash_utils'},
+    package_dir={
+        'sourmash_utils': 'sourmash_utils'
+    },
     include_package_data=True,
     install_requires=requirements,
     license="BSD license",
