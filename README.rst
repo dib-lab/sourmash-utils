@@ -3,18 +3,18 @@ sourmash utils
 ==============
 
 
-.. image:: https://img.shields.io/pypi/v/sourmash_utils.svg
-        :target: https://pypi.python.org/pypi/sourmash_utils
+.. image:: https://img.shields.io/pypi/v/sourmash-utils.svg
+        :target: https://pypi.python.org/pypi/sourmash-utils
 
-.. image:: https://img.shields.io/travis/dib-lab/sourmash_utils.svg
-        :target: https://travis-ci.org/dib-lab/sourmash_utils
+.. image:: https://img.shields.io/travis/dib-lab/sourmash-utils.svg
+        :target: https://travis-ci.org/dib-lab/sourmash-utils
 
 .. image:: https://readthedocs.org/projects/sourmash-utils/badge/?version=latest
         :target: https://sourmash-utils.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
-.. image:: https://pyup.io/repos/github/dib-lab/sourmash_utils/shield.svg
-     :target: https://pyup.io/repos/github/dib-lab/sourmash_utils/
+.. image:: https://pyup.io/repos/github/dib-lab/sourmash-utils/shield.svg
+     :target: https://pyup.io/repos/github/dib-lab/sourmash-utils/
      :alt: Updates
 
 
